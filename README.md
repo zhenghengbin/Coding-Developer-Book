@@ -16,6 +16,8 @@
 - Android应用框架原理与程序设计
 - Android中文帮助文档
 - Android主要机制深入分析
+- Android应用开发详解
+- Android技术内幕.系统卷
 
 
 ####2016/03/21
@@ -32,6 +34,15 @@
 - Android编程入门教程
 - Android应用开发入门教程(经典版)
 - The.Android.Developers.Cookbook
+
+
+
+
+##JAVA
+---
+####2016/04/15
+- Java本地接口(JNI)编程指南和规范2
+
 
 
 
