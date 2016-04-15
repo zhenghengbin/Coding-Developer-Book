@@ -65,6 +65,25 @@
 
 
 
+##Linux
+---
+####2016/04/15
+- Gerrit使用指南
+- Git那些命令
+- linux_guide
+- Linux必学的60个命令
+- Linux初学者入门
+- Linux系统命令及其使用详解
+- Linux下Telnet、ssh服务的设置和使用
+- LINUX中的进程
+- Pro_Git
+- ubuntu linux命令行简明教程
+- Ubuntu常用命令大全
+- Ubuntu从入门到精通
+- 华为内部LINUX学习资料
+- 练成Linux系统高手教程
+
+
 
 ##黑客
 ---
