@@ -20,6 +20,26 @@
 - Android技术内幕.系统卷
 
 
+>eoeAndroid特刊
+
+- 第1期 Andriod 1.5 SDK简介
+- 第2期 android 图像处理篇（1）
+- 第3期 Android Market及应用发布
+- 第4期 Android widget Ver 2.0.0(build 2009.06.30)
+- 第5期 Android widget
+- 第6期 数据通信-成为Android数据流大师
+- 第7期 NDK开发技巧
+- 第8期 数据存储操作
+- 第9期 android2.0专题特刊发布
+- 第10期 android2.2特色详解
+- 第11期 Android UI Design
+- 第12期 android网络处理
+- 第13期 android源码架构分析
+- 第14期：Android2.3特色讲解
+- 第15期：Android多媒体
+- 第16期：底层驱动原理
+- 第17期：Android摄像头的应用
+
 ####2016/03/21
 
 - Android的传感系统
