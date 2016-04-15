@@ -10,7 +10,12 @@
 ##Android
 ---
 ####2016/04/15
--
+- Android_资源文件_详解
+- android-framework-Android系统原理与开发
+- android高手进阶教程
+- Android应用框架原理与程序设计
+- Android中文帮助文档
+- Android主要机制深入分析
 
 
 ####2016/03/21
