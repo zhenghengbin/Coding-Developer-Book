@@ -62,7 +62,11 @@
 ---
 ####2016/04/15
 - Java本地接口(JNI)编程指南和规范2
-
+- Java_TCPIP_Socket编程
+- Java+NIO
+- Java编程思想(第4版)
+- java网络编程
+- 深入java虚拟机
 
 
 ##Linux
@@ -99,6 +103,16 @@
 ####2016/04/12
 - 《爱上单片机》高清PDF
 
+
+
+##Python
+---
+####2016/04/15
+
+- Python_核心编程_第二版
+- Python_精要参考(第二版)
+- PYTHON网络编程基础
+- 用python爬虫抓站的一些技巧总结___observer专栏杂记
 
 ##Windows
 ---
