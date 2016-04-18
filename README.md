@@ -277,12 +277,21 @@
 
 ##C语言
 ---
+####2016/04/18
+- C Primer Plus（第五版）中文版
+- C程序设计语言(第2版_新版)
+- C和指针
+- C语言解惑(中文版)
+- C专家编程
+- The_C_Programming_Language(C程序设计语言第二版)
+- STL源码剖析
+- The_C_Programming_Language(C程序设计语言)
+
 ####2016/04/16
 - 《HTTP权威指南》高清中文版
 - C陷阱与缺陷
 - The C Programming Language
 - 让你不再害怕指针
-
 
 ####2016/04/13
 - C和指针（第二版）
