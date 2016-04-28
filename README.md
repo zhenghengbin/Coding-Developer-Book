@@ -477,6 +477,40 @@
 
 ##C++
 ---
+####2016/04/28
+- Accelerated C++ 
+- C++.Primer.Plus.第五版.中文版
+- C++必知必会
+- C++编程思想
+- C++编程思想[第二卷]
+- C++编程思想[第一卷]
+- C++标准程序库
+- C++参考大全(第四版)
+- C++沉思录
+- C++程序设计教程_第二版_钱能
+- C++程序设计语言(特别版)
+- C++程序设计原理与实践
+- C++代码设计与重用
+- C++面向对象多线程编程
+- C++实践之路
+- C++语言的设计和演化
+- C和指针
+- C专家编程
+- Effective C++中文版(第三版)
+- Effective C++中文第三版
+- Essential C++
+- Essential C++中文版
+- Modern C++ Design中文版
+- More Effective C++中文版
+- More Effective C++中文版2
+- More Exceptional C++中文版
+- More+Effective+C++
+- STL源码剖析
+- The+C+Standard+Library
+- 高质量C++编程指南
+- 深度探索C++对象模型
+- 深入探索C++对象模型
+
 
 ####2016/04/15
 - C和C++代码精粹
