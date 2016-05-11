@@ -612,6 +612,14 @@
 
 ##产品经理
 ---
+####2016/05/11
+- Advanced programming in the unix(r) environment (2nd edition)
+- Architect-201202-by-InfoQ
+- UF2011-富有情感的设计_贺炜
+- IDEA for Game
+- PMBOOK2008中文版
+- our_mobile_planet_china_zh_CN(1)
+
 ####2016/05/07
 - [Design][UCD火花集]
 - [Web开发设计模式].web_application_design_patterns
