@@ -820,12 +820,4 @@
 - 人工智能(AI)程序设计(面向对象语言)
 
 
-####非常欢迎大家把自己手上有好的PDF书籍分享出来！
-####QQ邮箱：748778890@qq.com
-####Google邮箱：liuguilin74@gmail.com
-####博客地址：http://blog.csdn.net/qq_26787115
 
----
-###我的公众号，期待你的关注
-![weixin](http://img.blog.csdn.net/20160108203741937)
-###[点击关注我的微博](http://weibo.com/Glorystys)
